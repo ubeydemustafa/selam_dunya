@@ -1,0 +1,14 @@
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\bin\Debug\selam_dünya.exe.config
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\bin\Debug\selam_dünya.exe
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\bin\Debug\selam_dünya.pdb
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\obj\Debug\selam_dünya.csprojAssemblyReference.cache
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\obj\Debug\selam_dünya.csproj.CoreCompileInputs.cache
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\obj\Debug\selam_dünya.exe
+C:\Users\ubeyde\source\repos\selam_dünya\selam_dünya\obj\Debug\selam_dünya.pdb
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\bin\Debug\selam_dünya.exe.config
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\bin\Debug\selam_dünya.exe
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\bin\Debug\selam_dünya.pdb
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\obj\Debug\selam_dünya.csprojAssemblyReference.cache
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\obj\Debug\selam_dünya.csproj.CoreCompileInputs.cache
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\obj\Debug\selam_dünya.exe
+C:\Users\ubeyde\source\repos\selam_dunya\selam_dünya\obj\Debug\selam_dünya.pdb
